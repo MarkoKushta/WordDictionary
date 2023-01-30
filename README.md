@@ -1,4 +1,4 @@
-# Algorithm2
+# WordDictionary
 ->PROBLEM DESCRIPTION
 
 Given a dictionary D and a non-empty string s where words are joined together, 
@@ -32,4 +32,3 @@ All Python’s immutable built-in objects are hashable, so in comparison with ja
 ->OUTPUT
 ![output](https://user-images.githubusercontent.com/71281629/173920042-bf3bf83f-fcee-4588-9200-b50d37874897.png)
 
-# WordDictionary
