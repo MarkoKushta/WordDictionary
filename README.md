@@ -14,6 +14,8 @@ All Python’s immutable built-in objects are hashable, so in comparison with ja
 
 ->ALGORITHM
 
+T(n)= O(n^2)
+
 1. Create a lines array, read input from file, and put it inside the array
 2. Create a dictionary and a counter which starts at 0
 3. For all lines in lines array, we check the counter and at the end give the key value 1 to the dictionary when the current line has no spaces
